@@ -1,0 +1,27 @@
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\QuadSterowanie27082018.exe
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\QuadSterowanie27082018.exe.config
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.dll
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.xml
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.QuadControl.resources
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.Properties.Resources.resources
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.csproj.GenerateResource.Cache
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.exe
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.pdb
+D:\Users\reksio\Documents\Visual Studio 2017\Projects\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.csprojResolveAssemblyReference.cache
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.dll
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\Microsoft.DirectX.xml
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.csprojAssemblyReference.cache
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.csproj.GenerateResource.cache
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.csproj.CoreCompileInputs.cache
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadSterowanie27082018.csproj.CopyComplete
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\QuadControlStation.exe.config
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\QuadControlStation.exe
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\bin\Debug\QuadControlStation.pdb
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadControlStation.QuadControlStation.resources
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadControlStation.Properties.Resources.resources
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadControlStation.exe
+D:\programowanie\QuadControl\QuadSterowanie27082018\QuadSterowanie27082018\QuadSterowanie27082018\obj\Debug\QuadControlStation.pdb
